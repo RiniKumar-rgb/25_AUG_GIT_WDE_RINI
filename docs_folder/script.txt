@@ -1,1 +1,1 @@
-welcome to script.txt file under the folder docs_folder
+welcome to script.txt file under the folder docs_ttfolder
